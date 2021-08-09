@@ -1,7 +1,7 @@
 ### Olá! Sou a Clarice, bem vindo 👋
 
 - 🌱 Estudando Python
-- ⚡ Fato legal: estudo Ciências Econômicas 
+- ⚡ Fato legal: guitar player 
 
 <div>
   <a href="https://github.com/ClariceMaciel">
