@@ -21,4 +21,4 @@
   
 ##
   
-![Visitor Count](https://profile-counter.glitch.me/{ClariceMaciel}/count.svg)
+![](https://komarev.com/ghpvc/?username=ClariceMaciel&color=3208a3&style=flat)
