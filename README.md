@@ -18,3 +18,7 @@
   ![Snake animation](https://github.com/ClariceMaciel/ClariceMaciel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+##
+  
+![Visitor Count](https://profile-counter.glitch.me/{ClariceMaciel}/count.svg)
